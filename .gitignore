@@ -1,0 +1,14 @@
+# Machine Learning Assets
+*.pth
+*.json
+*.zip
+IFR31__V1_P1/
+
+# Python Environment
+venv/
+__pycache__/
+*.pyc
+
+# Operating System
+.DS_Store
+Thumbs.db
